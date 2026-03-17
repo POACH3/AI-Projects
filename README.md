@@ -13,6 +13,7 @@ This repository catalogs artificial intelligence projects, created to help me le
 
 ### In Progress
 - [Genetic Algorithm](https://github.com/POACH3/PolyEvolve-2D) - a solution approximator inspired by natural selection
+- [Computer Vision](https://github.com/POACH3/MapWeaver-Prototyping) - grid detection in an image with Hough transform and a convolutional neural network
 
 ### Planned
 - Minimax with Alpha-Beta Pruning
